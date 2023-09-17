@@ -13,7 +13,7 @@ Greetings, fellow code enthusiasts! I'm an intrepid Senior Software Quality Assu
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kunaal-ai&theme=dark&background=000000)](https://git.io/streak-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaal-ai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaal-ai&hide=html&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
