@@ -41,8 +41,6 @@ Greetings, fellow code enthusiasts! I'm an intrepid Senior Software Quality Assu
 ### 🌟 Key Achievements
 - Created an enchanting automated testing framework using Python, JavaScript and Playwright, reducing manual testing time by a staggering 70%.
 - Led a dynamic team of two senior engineers, centralizing QA communication, resulting in a remarkable 15% cross-functional enhancement over 6 months.
-- Pioneered diverse testing initiatives - UI, API, backend automation, CI/CD pipelines, concourse, Docker integration tests - accelerating release cycles by a remarkable 40% in just 2 quarters.
-- Developed a groundbreaking tool in Python, transforming test data processing from 3 days to a mere 25 seconds in just 3 months.
 - Reduced test execution time by a magical 30% through automation with Ruby, RSpec, and Capybara.
 - Delivered a remarkable 25% reduction in costs by automating internal functions using Python in just 30 days.
 - Maintained a consistent 98% Jenkins success rate and diligently monitored CI for anomalies.
@@ -64,6 +62,7 @@ Greetings, fellow code enthusiasts! I'm an intrepid Senior Software Quality Assu
 - Medium: [Profile Link](https://medium.com/@softwaretestingpod)
 
 I'm on a never-ending quest to elevate software quality and bring joy to users. Let's collaborate on an epic journey of code and magic!
+
 
 
 
