@@ -3,17 +3,16 @@
 
 # **Kunaal Thanik**
 
+### 🚀 Experienced Sr. Software QA Engineer | Test Automation Pioneer 🚀
 
-## 🚀 Experienced Sr. Software QA Engineer | Test Automation Pioneer 🚀
+<div align="center">  <img src="https://www.codewars.com/users/optusPrimePython/badges/large?theme=light" title="Python codewar" alt="Codewar" width="500" height="150"></div>  
+
 
 ### 🔍 About Me
 
 Greetings, fellow code enthusiasts! I'm an intrepid Senior Software Quality Assurance Engineer dedicated to pushing the boundaries of test automation. With a passion for precision and innovation, I specialize in crafting robust automation solutions for APIs, UIs, and databases, driving software excellence with every line of code.
 
-  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kunaal-ai&theme=dark&background=000000)](https://git.io/streak-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaal-ai&hide=html&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -26,7 +25,6 @@ Greetings, fellow code enthusiasts! I'm an intrepid Senior Software Quality Assu
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="80"/>&nbsp;
   <p>
 
- 
   </p>
 </div>
 
@@ -66,6 +64,7 @@ I'm on a never-ending quest to elevate software quality and bring joy to users. 
 
 
 
+<div align="center">  <img src="https://www.codewars.com/users/optusPrimePython/badges/large?theme=light" title="Python codewar" alt="Codewar" width="500" height="200"></div>  
 
 
 <div id="header" align="center">
