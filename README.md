@@ -63,10 +63,6 @@ Greetings, fellow code enthusiasts! I'm an intrepid Senior Software Quality Assu
 I'm on a never-ending quest to elevate software quality and bring joy to users. Let's collaborate on an epic journey of code and magic!
 
 
-
-<div align="center">  <img src="https://www.codewars.com/users/optusPrimePython/badges/large?theme=light" title="Python codewar" alt="Codewar" width="500" height="200"></div>  
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
