@@ -2,7 +2,7 @@
 
 
 # **Kunaal Thanik**
-🚀 Sr. Software QA Engineer | Test Automation Pioneer 🚀
+🚀 Sr. Software QA Engineer | AWS Certified Cloud Practitioner🚀
 
 <div align="center">  <img src="https://www.codewars.com/users/optusPrimePython/badges/large?theme=light" title="Python codewar" alt="Codewar" width="500" height="150"></div>  
 
