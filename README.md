@@ -50,6 +50,7 @@ Greetings, fellow code enthusiasts! I'm an intrepid Senior Software Quality Assu
 - Graduated from GNDU with a Bachelor's Degree in Computer Science.
   
 ### Certifications
+- Amazon AWS CCP
 - Get Started With Python, Google via Coursera - [Certificate](https://www.coursera.org/account/accomplishments/certificate/S64EKQMHD35R)
 - Jenkins: Automating your delivery pipeline, via Coursera - [Certificate](https://www.coursera.org/account/accomplishments/certificate/Y5Y6UQ669JXK)
 - Postman Essential training, Linkedin Learning - [Certificate](https://www.linkedin.com/learning/certificates/8dedbf80a2f607e3343759649ebc6d5e95fe1c6bff557f3f6a4e24d67dec523b)
