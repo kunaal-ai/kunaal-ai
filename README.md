@@ -55,9 +55,10 @@ Greetings, fellow code enthusiasts! I'm an intrepid Senior Software Quality Assu
 - Postman Essential training, Linkedin Learning - [Certificate](https://www.linkedin.com/learning/certificates/8dedbf80a2f607e3343759649ebc6d5e95fe1c6bff557f3f6a4e24d67dec523b)
 
 ### 📫 Contact
-- GitHub: [Profile Link](https://github.com/kunaal-ai)
-- LinkedIn: [Profile Link](https://www.linkedin.com/in/kunaal-thanik/)
-- Medium: [Profile Link](https://medium.com/@softwaretestingpod)
+- LinkedIn: [Connect](https://www.linkedin.com/in/kunaal-thanik/)
+- Medium: [Read](https://medium.com/@softwaretestingpod)
+- Email: [Compose](kunaal@testguardian.dev)
+- Potfolio: [Check it out](https://kunaaltestpro.my.canva.site/kunaal-thanik)
 
 I'm on a never-ending quest to elevate software quality and bring joy to users. Let's collaborate on an epic journey of code and magic!
 
