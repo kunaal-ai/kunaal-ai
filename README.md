@@ -59,7 +59,7 @@ Greetings, fellow code enthusiasts! I'm an intrepid Senior Software Quality Assu
 - LinkedIn: [Connect](https://www.linkedin.com/in/kunaal-thanik/)
 - Medium: [Read](https://medium.com/@softwaretestingpod)
 - Email: [Compose](kunaal@testguardian.dev)
-- Potfolio: [Check it out](https://kunaaltestpro.my.canva.site/kunaal-thanik)
+- Potfolio: [Check it out](https://testguardian.dev/)
 
 I'm on a never-ending quest to elevate software quality and bring joy to users. Let's collaborate on an epic journey of code and magic!
 
